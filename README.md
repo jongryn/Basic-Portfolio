@@ -1,5 +1,7 @@
 # Basic-Portfolio
 
+Link: https://jongryn.github.io/Basic-Portfolio/
+
 Week 1 (Recommended) Assignment - That Portfolio Though
 Overview
 
